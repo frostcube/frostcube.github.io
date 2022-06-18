@@ -15,4 +15,4 @@ description: Jump through time and space to maybe, with some skill and luck, get
 
 **DOWNLOAD:**
 
-Coming in 2018
+We appologise, we have paused development on this project for now.
