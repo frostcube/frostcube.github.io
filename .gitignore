@@ -15,6 +15,7 @@
 # Hugo
 hugo.exe
 .hugo_build.lock
+public/
 
 # Build results
 [Dd]ebug/
