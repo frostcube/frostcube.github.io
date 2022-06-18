@@ -1,0 +1,52 @@
+baseurl = "https://frostcube.com"
+languageCode = "en"
+theme = "hello-friend"
+paginate = 5
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "post"
+  # "light" or "dark"
+  defaultTheme = "dark"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 1
+  # Enable to show reading time in minutes for posts
+  showReadingTime = false
+
+[languages]
+  [languages.en]
+    title = "FrostCube"
+    subtitle = "We make games"
+    keywords = ""
+    copyright = "© 2022 FrostCube"
+    menuMore = "Content"
+    writtenBy = "Written by"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "Jan 2, 2006"
+    dateFormatList = "Jan 2, 2006"
+
+    [languages.en.params.logo]
+    #  logoText = "FrostCube"
+      logoHomeLink = "/"
+    # or
+    #
+    path = "/img/frostcube_logo_banner_web_map.png"
+    alt = "FrostCube"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "privacy"
+        name = "Privacy Policy"
+        url = "/privacy-policy"
+    #  [[languages.en.menu.main]]
+    #    identifier = "showcase"
+    #    name = "Showcase"
+    #    url = "/showcase"

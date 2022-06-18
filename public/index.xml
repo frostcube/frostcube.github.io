@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FrostCube</title>
+    
+    
+    
+    <link>https://frostcube.com/</link>
+    <description>Recent content on FrostCube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://frostcube.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://frostcube.com/about/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://frostcube.com/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Founded in 2009, FrostCube is a independent game development team, which over the years has had several members.
+Contributors:
+ Derme302 Blade695 Cyphermonkey  
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -12,6 +12,10 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# Hugo
+hugo.exe
+.hugo_build.lock
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
