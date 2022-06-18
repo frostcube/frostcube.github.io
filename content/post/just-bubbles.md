@@ -6,7 +6,7 @@ cover: img/posts/bubbles_promo_graphic.png
 description: When you just want to shoot bubbles
 ---
 
-Completely free with no ads, no micro-transactions, and no waiting for energy to recharge. Just 21 is a premium app so you can keep playing without interruption.
+Completely free with no ads, no micro-transactions, and no waiting for energy to recharge. Just Bubbles is a premium app so you can keep playing without interruption.
 
 **FEATURES:**
 - Free
