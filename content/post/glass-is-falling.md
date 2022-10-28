@@ -6,13 +6,13 @@ cover: img/posts/glass_promo_graphic.png
 description: Oh No! You’ve pushed Misty, your prized 19th century glass, off the table. Luckily the air current seems to be in your favour, compress the air by dragging and dropping the air particles and save Misty from extinction!
 ---
 
-**FEATURES:**
+## FEATURES:
 
 - Real-Time Physics
 - Online Scoreboard
 - Multitouch
 - Gorgeous graphics
 
-**DOWNLOAD:**
+## DOWNLOAD:
 
 We apologise, this game is no longer available for download.
