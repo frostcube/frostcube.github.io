@@ -18,4 +18,4 @@ Thank you for your support! Let us know what you think:
 
 ## DOWNLOAD:
 
-[![Download on Google Play](/img/posts/en_google_download.png)](https://play.google.com/store/apps/details?id=org.frostcube.just21)
+[![Download on Google Play](/img/posts/en_google_play_download.png)](https://play.google.com/store/apps/details?id=org.frostcube.just21)
