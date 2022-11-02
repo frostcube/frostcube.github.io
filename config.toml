@@ -3,6 +3,9 @@ languageCode = "en"
 theme = "hello-friend"
 paginate = 5
 
+## Hugo Built-in Features
+googleAnalytics = "G-PJT4RV57V6"
+
 [params]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "post"
