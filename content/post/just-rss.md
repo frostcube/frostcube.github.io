@@ -1,5 +1,5 @@
 ---
-title: Just RSS
+title: Just RSS (Open Beta)
 date: 2024-04-25
 author: Derme, Eversonian
 cover: img/posts/justrss_promo_graphic.png
