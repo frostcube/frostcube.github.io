@@ -18,4 +18,4 @@ Thank you for your support! Let us know what you think:
 
 ## DOWNLOAD:
 
-[![Download on Google Play](/img/posts/en_google_play_download.png)](https://play.google.com/store/apps/details?id=org.frostcube.just21)
+We apologise, this game is no longer available for download.

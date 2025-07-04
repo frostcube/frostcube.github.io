@@ -12,5 +12,3 @@ Current Contributors:
 - [Eversonian](https://mastodon.gamedev.place/@eversonian)
 
 Have something to say about about one of our apps? Then drop us a line! We would love to hear from you.
-
-You can email us at: support[at]frostcube[dot]com

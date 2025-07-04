@@ -4,7 +4,8 @@ theme = "hello-friend"
 paginate = 5
 
 ## Hugo Built-in Features
-googleAnalytics = "G-PJT4RV57V6"
+[services.googleAnalytics]
+    id = 'G-PJT4RV57V6'
 
 [params]
   # dir name of your blog content (default is `content/posts`)
@@ -21,7 +22,7 @@ googleAnalytics = "G-PJT4RV57V6"
     title = "FrostCube"
     subtitle = "We make games"
     keywords = ""
-    copyright = "© 2024 FrostCube"
+    copyright = "© 2025 FrostCube"
     menuMore = "Content"
     writtenBy = "Written by"
     readMore = "Read more"
@@ -45,10 +46,10 @@ googleAnalytics = "G-PJT4RV57V6"
         identifier = "about"
         name = "About"
         url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "privacy"
-        name = "Privacy Policy"
-        url = "/privacy-policy"
+      # [[languages.en.menu.main]]
+      #   identifier = "privacy"
+      #   name = "Privacy Policy"
+      #   url = "/privacy-policy"
     #  [[languages.en.menu.main]]
     #    identifier = "showcase"
     #    name = "Showcase"
