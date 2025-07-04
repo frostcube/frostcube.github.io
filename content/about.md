@@ -11,4 +11,4 @@ Current Contributors:
 - [Derme302](https://derme.coffee/)
 - [Eversonian](https://mastodon.gamedev.place/@eversonian)
 
-Have something to say about about one of our apps? Then drop us a line! We would love to hear from you.
+Have something to say about about one of our apps? Then [drop us a line](https://github.com/orgs/frostcube/discussions/categories/general)! We would love to hear from you.
